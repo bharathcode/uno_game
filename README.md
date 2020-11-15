@@ -20,8 +20,6 @@ Replace my name to your name in login that would be present the welcome.py
 Note: 
 If you want to run the file the xampp server or any server should be in open position
 
-If you have any doubts call suresh sir he will connect me and we will discuss about the error
-
 Fine Byee
 Follow Up on:
 
